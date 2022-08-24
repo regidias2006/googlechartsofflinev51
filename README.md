@@ -1,5 +1,5 @@
 
-# Google Charts Version 51 - 08/2022
+# Google Charts OFFLINE Version 51 - 08/2022
 
 This project was extracted from Google Charts Version 51, this repository not have any support from Google Team, 
 if is necessary any actualization you can clone this repo and apply the new features.
