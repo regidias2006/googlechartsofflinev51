@@ -1,0 +1,14 @@
+{
+    "name": "@regidias2006/google-charts-offline-v51",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/regidias2006/googlechartsofflinev51.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    }
+}
